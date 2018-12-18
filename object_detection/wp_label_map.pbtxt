@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'red cap'
+}
+
+item {
+  id: 2
+  name: 'white cap'
+}
+
+item {
+  id: 3
+  name: 'dark cap'
+}
+
+item {
+  id: 4
+  name: 'ball'
+}
