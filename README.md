@@ -11,6 +11,5 @@ This project organizes 26 water polo game videos (important events are extracted
 
 # Object Detection
 
-![alt text](https://github.com/sswpro/CalWaterPolo/blob/master/object_detection/Screen%20Shot%202018-12-06%20at%2011.59.31%20PM.png)
 
 
